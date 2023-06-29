@@ -1,0 +1,33 @@
+{
+  "name": "challenge-12",
+  "version": "1.0.0",
+  "description": "employee database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dapatel4092/challenge-12.git"
+  },
+  "keywords": [
+    "CLI",
+    "app",
+    "with",
+    "mysql",
+    "&",
+    "inquirer"
+  ],
+  "author": "dhruv patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dapatel4092/challenge-12/issues"
+  },
+  "homepage": "https://github.com/dapatel4092/challenge-12#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.5",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.4.2"
+  }
+}
